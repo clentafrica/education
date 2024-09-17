@@ -39,7 +39,7 @@ Please ensure that your contributions align with the focus and purpose of this r
 
 To get started with contributing or using the resources in this repository:
 
-1. Join our Discord: [CLENT Africa Discord](https://discord.gg/HC75V7JN)
+1. Join our Discord: [CLENT Africa Discord](https://discord.gg/u5yWdGNmyR)
 2. Explore the contents of any of our repositories and familiarize yourself with our lessons, lesson plans, training manuals, and other resources.
 3. Reach out to us on Discord if you have any questions or need guidance.
 
